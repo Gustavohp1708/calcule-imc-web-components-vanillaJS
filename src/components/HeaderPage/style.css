@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+    height: 8rem;
+  }
+  
+  header .container .logo{
+    height: 8rem;
+    display: flex;
+  }
+  
+  header .container .logo a{
+    display: flex;
+    align-items: center;
+    font-size: 2.6rem;  
+    color: var(--black);
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  header .container .logo a span{
+    color: var(--blue);
+    margin-left: 0.2rem;
+  }

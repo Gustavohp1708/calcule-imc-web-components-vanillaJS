@@ -1,0 +1,15 @@
+.content .form-container{
+    width: 100%;
+    display: flex;
+  }
+
+.content .form-container .form{
+  display: flex;  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--grey-dark);
+  width: 50rem;
+
+  margin: auto;
+}

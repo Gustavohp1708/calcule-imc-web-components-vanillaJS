@@ -1,0 +1,19 @@
+input{
+  border: solid 1px var(--light-blue);
+  border-radius: 0.5rem;
+  height: 3.2rem;
+  margin: 0 auto 1rem auto;
+
+  width: 80%;
+  padding-left: 1.2rem;
+}
+  
+input::placeholder{
+  color: var(--icons-details);  
+}
+  
+label{
+  margin: 0 auto 0.2rem auto;
+  width: 80%;
+  color: var(--black);  
+}
